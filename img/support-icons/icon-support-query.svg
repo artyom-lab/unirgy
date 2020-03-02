@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="80" viewBox="0 0 100 80">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(20 21)">
+      <path fill="#BFD1DF" fill-rule="nonzero" d="M5,2 C3.34314575,2 2,3.34314575 2,5 L2,35 C2,36.6568542 3.34314575,38 5,38 L55,38 C56.6568542,38 58,36.6568542 58,35 L58,5 C58,3.34314575 56.6568542,2 55,2 L5,2 Z M5,0 L55,0 C57.7614237,-5.07265313e-16 60,2.23857625 60,5 L60,35 C60,37.7614237 57.7614237,40 55,40 L5,40 C2.23857625,40 3.38176876e-16,37.7614237 0,35 L0,5 C-3.38176876e-16,2.23857625 2.23857625,5.07265313e-16 5,0 Z"/>
+      <rect width="12" height="12" x="24" y="31" fill="#F8F9F9" fill-rule="nonzero"/>
+      <path stroke="#BFD1DF" d="M11 9L50.9104982 9M11 15L50.9104982 15M11 21L50.9104982 21" stroke-linecap="square"/>
+      <rect width="41" height="5" x="10.5" y="26.5" stroke="#BFD1DF" rx="2"/>
+    </g>
+    <path stroke="#BFD1DF" stroke-width="2" d="M50,56.9900017 L50,73.0500031" stroke-linecap="square"/>
+    <polyline stroke="#BFD1DF" stroke-width="2" points="46 60 54 71.566 46 83" transform="rotate(90 50 71.5)"/>
+    <text fill="#BFD1DF" font-family="Khula-Bold, Khula" font-size="14" font-weight="bold">
+      <tspan x="46.854" y="18">?</tspan>
+    </text>
+  </g>
+</svg>

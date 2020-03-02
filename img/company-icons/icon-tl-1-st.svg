@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#9AA8B3" stroke-linejoin="round" stroke-width="2" d="M31.5 44.517l-4.93 1.774-3.189-4.158-5.107-1.173-.434-5.222-3.662-3.747 2.458-4.628-1.055-5.133 4.57-2.564 1.888-4.888 5.23.313L31.5 12l4.23 3.091 5.231-.313 1.888 4.888 4.57 2.564-1.055 5.133 2.458 4.628-3.662 3.747-.434 5.222-5.107 1.173-3.189 4.158z"/>
+        <circle cx="31" cy="29" r="10" fill="#FFF" stroke="#9AA8B3" stroke-width="2"/>
+        <text fill="#9AA8B3" font-family="Khula-ExtraBold, Khula" font-size="16.896" font-weight="600">
+            <tspan x="26" y="34">1</tspan>
+        </text>
+    </g>
+</svg>
